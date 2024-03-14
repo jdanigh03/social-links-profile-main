@@ -1,0 +1,23 @@
+.imagen {
+    width: 40%;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 0.2em;
+}
+
+h2 {
+    margin-top: 0.1em;
+}
+
+p {
+    font-size: 20px;
+}
+
+button{
+    font-size: 17px;
+}
+.contenedor {
+    width: 100%;
+}
